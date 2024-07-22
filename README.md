@@ -7,7 +7,7 @@ This project demonstrates how to use SQLAlchemy, a popular SQL toolkit and Objec
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/SQLAlchemyAdvancedDemo.git
-    cd SQLAlchemyAdvancedDemo
+    cd SQLAlchemyProject
     ```
 
 2. Create and activate a virtual environment:
